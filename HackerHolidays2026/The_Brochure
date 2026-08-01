@@ -1,0 +1,8 @@
+Category: OSINT
+Tags: OSINT, Social Media, Image Analysis 
+
+Steps I took:
+1. I started by downloading the flyer for The Byte Lotus Hotel. 
+2. The flyer mentioned an Instagram, so I went to Instagram and searched for the hotel. The hotel's Instagram had a photo of the flyer. 
+3. I noticed that the hotel was only following one person, so I checked out the account. It turned out to be the hotel's AI concierge, Vera.
+4. Vera had posted a string across three images, which I took and put into CyberChef.org, which gave me the flag for the room. 
