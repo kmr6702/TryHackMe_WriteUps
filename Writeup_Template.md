@@ -4,6 +4,8 @@
 
 **Room:**
 
+**Difficulty:**
+
 **Category:** 
 
 **Tags:** 
