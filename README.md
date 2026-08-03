@@ -10,9 +10,18 @@ These write-ups are designed to:
  - Reinforce the room concepts
  - Focus on the investigation process, tools, and lessons learned
 
+## Repository Structure 
+Write-ups are organized by path (e.g., `/Hacker-Holidays`), with one file for each completed room. The file name matches the room name. 
+
 ## Completed Write-Ups
+| Room | Path | 
+|------|------|
+| The Brochure | Hacker Holidays |
+| The Concierge Knows Too Much | Hacker Holidays |
+| Room 404 | Hacker Holidays |
 
 ## Tools & Skills 
+Nmap, SSH, Linux CLI 
 
 ## Disclaimer 
 
