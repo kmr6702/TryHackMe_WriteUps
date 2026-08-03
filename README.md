@@ -16,9 +16,9 @@ Write-ups are organized by path (e.g., `/Hacker-Holidays`), with one file for ea
 ## Completed Write-Ups
 | Room | Path | 
 |------|------|
-| The Brochure | Hacker Holidays |
-| The Concierge Knows Too Much | Hacker Holidays |
-| Room 404 | Hacker Holidays |
+| [The Brochure](HackerHolidays2026/The_Brochure.md) | Hacker Holidays |
+| [The Concierge Knows Too Much](HackerHolidays2026/The_Concierge_Knows_Too_Much.md)  | Hacker Holidays |
+| [Room 404](HackerHolidays2026/Room_404.md) | Hacker Holidays |
 
 ## Tools & Skills 
 Nmap, SSH, Linux CLI 
