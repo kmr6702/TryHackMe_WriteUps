@@ -4,6 +4,8 @@
 
 **Room:** Warm-Up Room
 
+**Difficulty:** Very Easy 
+
 **Category:** OSINT
 
 **Tags:** OSINT, Social Media, Image Analysis 
