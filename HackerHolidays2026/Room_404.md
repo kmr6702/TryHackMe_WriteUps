@@ -1,8 +1,10 @@
-# Hacker Holidays Day 2
+# Hacker Holidays 2026 Day 2
 
 **Path:** Hacker Holidays 
 
 **Room:** Room 404
+
+**Difficulty:** Very Easy
 
 **Category:** Web 
 
