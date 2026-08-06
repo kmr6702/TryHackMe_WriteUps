@@ -19,6 +19,7 @@ Write-ups are organized by path (e.g., `/Hacker-Holidays`), with one file for ea
 | [The Brochure](HackerHolidays2026/The_Brochure.md) | Hacker Holidays |
 | [The Concierge Knows Too Much](HackerHolidays2026/The_Concierge_Knows_Too_Much.md)  | Hacker Holidays |
 | [Room 404](HackerHolidays2026/Room_404.md) | Hacker Holidays |
+| [Complimentary](HackerHolidays2026/Complimentary.md) | Hacker Holidays |
 
 ## Tools & Skills 
 Nmap, SSH, Linux CLI 
