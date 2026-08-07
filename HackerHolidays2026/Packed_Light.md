@@ -54,7 +54,7 @@ from the `updates.py`, but still did not have my final answer. I slowly deleted 
  ---
 
  ## Key Takeaways 
-  -
-  - 
-  - 
-  -
+  - Used Wireshark filters to narrow down network traffic to review
+  - Gained more experience with CyberChef and decoding data
+  - Recognized and reversed a multi-step encryption process
+    
