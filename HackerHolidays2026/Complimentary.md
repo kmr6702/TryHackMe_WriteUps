@@ -66,7 +66,7 @@ The command I ran to dump the table was `aws dynamodb scan --table-name complime
  ---
 
  ## Key Takeaways 
-  - 
-  - 
-  - 
-  -
+  - Cognito can be used to retrieve temporary AWS credentials
+  - DevTools can be used to expose JavaScript files from the client-side 
+  - Gained an understanding of how IAM Misconfiguration can lead to sensitive data being exposed
+
